@@ -1,5 +1,0 @@
-com.example.prueva2_mapa.test.app-core-1.6.1-0 C:\Users\cris4\.gradle\caches\transforms-3\f6b138264e4e01e8d0a96d83fe42462b\transformed\core-1.6.1\res
-com.example.prueva2_mapa.test.app-androidTest-1 C:\Users\cris4\prueva2_mapa\app\build\generated\res\resValues\androidTest\debug
-com.example.prueva2_mapa.test.app-mergeDebugAndroidTestResources-2 C:\Users\cris4\prueva2_mapa\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
-com.example.prueva2_mapa.test.app-mergeDebugAndroidTestResources-3 C:\Users\cris4\prueva2_mapa\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
-com.example.prueva2_mapa.test.app-debugAndroidTest-4 C:\Users\cris4\prueva2_mapa\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
