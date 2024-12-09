@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="google_maps_api_key">
+        AIzaSyC1EEKAjI-hZrzeBoMkmqInNP4ci5Ma5qM
+    </string>
+    <style name="Base.Theme.Prueva2_mapa" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Prueva2_mapa" parent="Base.Theme.Prueva2_mapa"/>
+</resources>

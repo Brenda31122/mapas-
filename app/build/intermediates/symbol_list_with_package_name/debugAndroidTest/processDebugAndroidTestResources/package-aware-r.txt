@@ -1,0 +1,3 @@
+com.example.prueva2_mapa.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
